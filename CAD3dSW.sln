@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAD3dSW", "CAD3dSW\CAD3dSW.csproj", "{F824F8F4-60F5-4AD3-B4D3-5D5A63BB8B0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CADTaskServer", "CADTaskServer\CADTaskServer.csproj", "{AEEB3226-313F-44C6-BDF6-535D42D62363}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F824F8F4-60F5-4AD3-B4D3-5D5A63BB8B0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F824F8F4-60F5-4AD3-B4D3-5D5A63BB8B0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F824F8F4-60F5-4AD3-B4D3-5D5A63BB8B0E}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{F824F8F4-60F5-4AD3-B4D3-5D5A63BB8B0E}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{F824F8F4-60F5-4AD3-B4D3-5D5A63BB8B0E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F824F8F4-60F5-4AD3-B4D3-5D5A63BB8B0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F824F8F4-60F5-4AD3-B4D3-5D5A63BB8B0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F824F8F4-60F5-4AD3-B4D3-5D5A63BB8B0E}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{F824F8F4-60F5-4AD3-B4D3-5D5A63BB8B0E}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{F824F8F4-60F5-4AD3-B4D3-5D5A63BB8B0E}.Release|x86.ActiveCfg = Release|Any CPU
+		{AEEB3226-313F-44C6-BDF6-535D42D62363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEEB3226-313F-44C6-BDF6-535D42D62363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEEB3226-313F-44C6-BDF6-535D42D62363}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{AEEB3226-313F-44C6-BDF6-535D42D62363}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{AEEB3226-313F-44C6-BDF6-535D42D62363}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AEEB3226-313F-44C6-BDF6-535D42D62363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEEB3226-313F-44C6-BDF6-535D42D62363}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEEB3226-313F-44C6-BDF6-535D42D62363}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{AEEB3226-313F-44C6-BDF6-535D42D62363}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{AEEB3226-313F-44C6-BDF6-535D42D62363}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18383391-FAF4-4109-98BF-60A2E4FAFF25}
+	EndGlobalSection
+EndGlobal
